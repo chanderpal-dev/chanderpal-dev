@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I’m Chanderpal 👋
 
-<!--
-**chanderpal-dev/chanderpal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer with **1 year of hands-on experience** in building high-performance, user-centric **mobile applications using React Native**, with a strong foundation in **JavaScript, TypeScript, Tailwind CSS**, and **React.js**.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+I specialize in creating **scalable**, **high-performance**, and **cross-platform** Android and iOS applications that deliver **smooth animations**, **fast load times**, and a **native-like UI/UX** experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills
+- **📱 Mobile App Development:** React Native (Android & iOS)
+- **🔧 State Management:** Redux Toolkit, Zustand, TanStack Query, Context API
+- **🌐 API Integration:** REST APIs, efficient data fetching and caching
+- **🎨 UI/UX Optimization:** Responsive design with Tailwind CSS
+- **🔁 Version Control & CI/CD:** Git, GitHub, and basic CI workflows
+- **🧪 Code Quality & Testing:** Clean, maintainable code with effective debugging practices
+
+### 📫 Let’s Connect
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-profile-url) or explore my work here on GitHub!
+
+---
+
+_Thanks for visiting!_ 😊

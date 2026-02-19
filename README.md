@@ -14,7 +14,7 @@ I specialize in creating **scalable**, **high-performance**, and **cross-platfor
 - **🧪 Code Quality & Testing:** Clean, maintainable code with effective debugging practices
 
 ### 📫 Let’s Connect
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-profile-url)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chanderpal-rajput-760649214/)
 
 ---
 

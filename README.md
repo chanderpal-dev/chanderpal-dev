@@ -11,6 +11,7 @@ I specialize in creating **scalable**, **high-performance**, and **cross-platfor
 - **🌐 API Integration:** REST APIs, efficient data fetching and caching
 - **🎨 UI/UX Optimization:** Responsive design with Tailwind CSS
 - **🔁 Version Control & CI/CD:** Git, GitHub, and basic CI workflows
+- **🖌️ Advanced Animations:** Framer Motion (Web) and React Native Reanimated (Mobile)
 - **🧪 Code Quality & Testing:** Clean, maintainable code with effective debugging practices
 
 ### 📫 Let’s Connect
